@@ -11,7 +11,7 @@ using namespace std;
 class Solution {
   public:
     long long findNth(long long n) {
-        // code here
+    
         long long ans=0;
         long long p=1;
         
@@ -23,17 +23,6 @@ class Solution {
         return ans;
     }
 };
-
-
-
-
-
-
-
-
-
-
-
 
 //{ Driver Code Starts.
 int main() {
